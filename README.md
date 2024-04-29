@@ -13,14 +13,6 @@ This project uses a Long Short-Term Memory (LSTM) neural network to predict stoc
 - scikit-learn
 - keras
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/stock-price-prediction.git
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-
 ## Usage
 1. Import the necessary libraries.
 2. Request stock prices in real-time for the desired companies using historical data from Yahoo Finance.
